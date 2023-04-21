@@ -6,6 +6,8 @@
 //
 //
 
+import Foundation
+
 @objc
 public protocol CSPieChartDelegate {
     

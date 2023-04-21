@@ -6,6 +6,8 @@
 //
 //
 
+import Foundation
+
 public class CSPieChartData: NSObject {
     public var key: String
     public var value: Double

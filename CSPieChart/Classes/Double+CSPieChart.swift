@@ -6,6 +6,8 @@
 //
 //
 
+import Foundation
+
 extension Double {
     var toRadian: CGFloat {
         return CGFloat(self * (Double.pi / 180))

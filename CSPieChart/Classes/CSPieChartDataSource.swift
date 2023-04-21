@@ -8,6 +8,9 @@
 
 //  This is datasource for 'CSPieChartViewController'
 
+import Foundation
+import UIKit
+
 @objc
 public protocol CSPieChartDataSource {
     
